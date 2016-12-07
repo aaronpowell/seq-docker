@@ -1,4 +1,4 @@
-a # Seq in Docker
+# Seq in Docker
 
 [Seq](https://getseq.net/) is a great logging platform and I wanted a way to demo it without having to install it. To that end I've created a Docker image that runs Seq!
 
